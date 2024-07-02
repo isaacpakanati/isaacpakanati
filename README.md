@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**isaacpakanati/isaacpakanati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
 I am a third-year computer engineering student at University of Bath, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
@@ -29,7 +13,7 @@ I am a third-year computer engineering student at University of Bath, passionate
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpakanati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isaacpakanati&icon=0&color=1)](https://visitcount.itsvg.in)
